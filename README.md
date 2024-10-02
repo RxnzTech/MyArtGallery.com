@@ -1,1 +1,1 @@
-# MyArtGallery.com
+# MyArtGallery.github.io
